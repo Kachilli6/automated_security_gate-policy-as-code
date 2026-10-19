@@ -1,8 +1,3 @@
-# Problems and Bugs Log
+# Problems and bugs
 
-## Entry 001:
-
-### Problem
-
-### Symptoms / Error
-```text
+The current issue log and reproduction template are in [docs/troubleshooting.md](docs/troubleshooting.md).
