@@ -1,11 +1,3 @@
-# Practical & Technical Documentation
+# Implementation log
 
-## Current Progress
-* **Status:** 
-* **Completed Tasks:** 
-* **Current Stage:** 
-* **Next Steps:** 
-
-## Technical Configuration & Setup
-
-### 1. Local Workspace Initialization
+The current setup and progress log is in [docs/implementation.md](docs/implementation.md).

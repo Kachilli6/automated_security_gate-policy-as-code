@@ -1,0 +1,38 @@
+# Terraform working data and sensitive/generated outputs
+**/.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+tfplan
+tfplan.json
+plan.json
+crash.log
+crash.*.log
+*.tfvars
+*.tfvars.json
+!*.tfvars.example
+!*.tfvars.json.example
+# Keep .terraform.lock.hcl tracked for reproducibility.
+
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+.aws/
+*.pem
+*.key
+.terraformrc
+terraform.rc
+
+# Python and local tools
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Generated outputs; sanitized evidence is stored explicitly in docs/evidence/
+reports/
+artifacts/
+.DS_Store
+Thumbs.db
